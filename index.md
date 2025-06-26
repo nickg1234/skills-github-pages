@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my great blog!
+---
+paragraph: ispum dolor set!
 ---
